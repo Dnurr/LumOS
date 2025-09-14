@@ -1,0 +1,11 @@
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\debug\deps\bitflags-2a6f061d24cf7612.d: C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\lib.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\iter.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\parser.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\traits.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\public.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\internal.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\external.rs
+
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\debug\deps\libbitflags-2a6f061d24cf7612.rmeta: C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\lib.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\iter.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\parser.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\traits.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\public.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\internal.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\external.rs
+
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\lib.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\iter.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\parser.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\traits.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\public.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\internal.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.4\src\external.rs:

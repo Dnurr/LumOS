@@ -1,0 +1,4 @@
+cargo:rerun-if-changed=kernel/src
+cargo:rerun-if-changed=kernel/Cargo.toml
+cargo:rustc-env=UEFI_PATH=C:\Users\Dnurr\Desktop\LumOS\lum-os\target\debug\build\lum-os-1e4aa00562b908f9\out\uefi.img
+cargo:rustc-env=BIOS_PATH=C:\Users\Dnurr\Desktop\LumOS\lum-os\target\debug\build\lum-os-1e4aa00562b908f9\out\bios.img

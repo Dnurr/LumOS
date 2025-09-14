@@ -1,0 +1,1 @@
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\debug\lum-os.exe: C:\Users\Dnurr\Desktop\LumOS\lum-os\build.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\kernel/Cargo.toml C:\Users\Dnurr\Desktop\LumOS\lum-os\kernel/src C:\Users\Dnurr\Desktop\LumOS\lum-os\src\main.rs

@@ -1,0 +1,17 @@
+[package]
+name = "lum-os"
+version = "0.1.0"
+edition = "2024"
+
+[profile.release]
+panic = "abort"
+
+[build-dependencies]
+bootloader = "0.11"
+
+[dependencies]
+# used for UEFI booting in QEMU
+ovmf-prebuilt = "0.1.0-alpha.1"
+
+[workspace]
+members = ["kernel"]

@@ -1,0 +1,13 @@
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\deps\bootloader_api-231ec879b3346588.d: C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\lib.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\config.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\info.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/concat.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/version_info.rs
+
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\deps\libbootloader_api-231ec879b3346588.rlib: C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\lib.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\config.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\info.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/concat.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/version_info.rs
+
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\deps\libbootloader_api-231ec879b3346588.rmeta: C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\lib.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\config.rs C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\info.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/concat.rs C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/version_info.rs
+
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\lib.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\config.rs:
+C:\Users\Dnurr\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bootloader_api-0.11.12\src\info.rs:
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/concat.rs:
+C:\Users\Dnurr\Desktop\LumOS\lum-os\target\x86-64-lumos\release\build\bootloader_api-80f1a7d77a97a0c6\out/version_info.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Dnurr\\Desktop\\LumOS\\lum-os\\target\\x86-64-lumos\\release\\build\\bootloader_api-80f1a7d77a97a0c6\\out

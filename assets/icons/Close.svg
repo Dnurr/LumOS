@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path id="Cross" d="M446.267,540L158.162,251.894C132.278,226.011 132.278,184.046 158.162,158.163L158.163,158.162C184.046,132.278 226.011,132.278 251.894,158.162L540,446.267L828.106,158.162C853.989,132.278 895.954,132.278 921.837,158.162L921.838,158.163C947.722,184.046 947.722,226.011 921.838,251.894L633.733,540L921.838,828.106C947.722,853.989 947.722,895.954 921.838,921.837L921.837,921.838C895.954,947.722 853.989,947.722 828.106,921.838L540,633.733L251.894,921.838C226.011,947.722 184.046,947.722 158.163,921.838L158.162,921.837C132.278,895.954 132.278,853.989 158.162,828.106L446.267,540Z" style="fill:white;"/>
+</svg>

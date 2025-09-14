@@ -1,0 +1,23 @@
+   Compiling lum-os-kernel v0.1.0 (C:\Users\Dnurr\Desktop\LumOS\lum-os\kernel)
+warning: unused import: `x86_64::structures::paging::Page`
+ --> kernel\src\main.rs:6:5
+  |
+6 | use x86_64::structures::paging::Page;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` (part of `#[warn(unused)]`) on by default
+
+warning: unused import: `lum_os_kernel::lumos::memory`
+  --> kernel\src\main.rs:22:9
+   |
+22 |     use lum_os_kernel::lumos::memory;
+   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+warning: unused import: `VirtAddr`
+  --> kernel\src\main.rs:23:18
+   |
+23 |     use x86_64::{VirtAddr};
+   |                  ^^^^^^^^
+
+warning: `lum-os-kernel` (bin "lum-os-kernel") generated 3 warnings (run `cargo fix --bin "lum-os-kernel"` to apply 3 suggestions)
+    Finished `release` profile [optimized] target(s) in 0.43s
